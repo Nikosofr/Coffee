@@ -66,6 +66,20 @@
       </property>
      </widget>
     </item>
+    <item>
+     <widget class="QPushButton" name="pushButtonAdd">
+      <property name="text">
+       <string>Добавить запись</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QPushButton" name="pushButtonEdit">
+      <property name="text">
+       <string>Редактировать запись</string>
+      </property>
+     </widget>
+    </item>
    </layout>
   </widget>
  </widget>
